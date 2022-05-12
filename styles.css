@@ -1,0 +1,33 @@
+.header {
+    text-align: center;
+    background-color: oldlace;
+
+}
+
+.button1 {
+    background-color: oldlace;
+    border: 2px solid black;
+    color: black;
+}
+
+.button1:hover {
+    background-color: Black;
+    color: white;
+}
+
+.links    {
+    color: White !important;
+}  
+
+.links:hover     {
+    color: Grey !important;
+} 
+
+.margin  {
+ margin-top: 95px;
+}
+
+.carousel-item{
+    height: 900px; 
+    overflow: hidden;
+}
